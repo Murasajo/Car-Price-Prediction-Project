@@ -18,7 +18,7 @@ The dataset used in this project is sourced from Kaggle and includes various fea
 ## Usage
 1. Clone the repository.
    ```sh
-   git clone https://github.com/yourusername/car-price-prediction.git
+   git clone https://github.com/Murasajo/Car-Price-Prediction-Project.git
    ```
 2. Navigate to the project directory.
    ```sh
